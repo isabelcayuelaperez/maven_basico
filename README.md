@@ -1,4 +1,4 @@
-# ejemplos codigo CSS3
+# ejemplos codigo Maven-Swing
 Este repositorio contiene un ejemplo de una aplicación de escritorio creada la interfaz con Swing y el gestor de proyectos Maven.
 
 
